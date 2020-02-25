@@ -39,6 +39,6 @@ lib/generated_plugin_registrant.dart
 
 # Keys and Google Service JSON#
 lib/key_id.dart
-android/app/google-service.json
-android/google-service.json
-
+android/app/google-services.json
+android/google-services.json
+android/key.properties
